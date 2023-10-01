@@ -8,7 +8,7 @@
         "**/.factorypath": true,
         "**/.project": true,
         "**/.settings": true,
-        ".gitignore": false,
+        ".gitignore": true,
         ".vscode/c_cpp_properties.json": true
     },
     "window.zoomLevel": 2,
