@@ -12,5 +12,6 @@
         ".vscode/c_cpp_properties.json": true
     },
     "window.zoomLevel": 2,
-    "editor.accessibilitySupport": "off"
+    "editor.accessibilitySupport": "off",
+    "extensions.ignoreRecommendations": true
 }
