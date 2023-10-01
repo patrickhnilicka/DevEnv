@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.devcontainer": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        ".gitignore": false,
+        ".vscode/c_cpp_properties.json": true
+    },
+    "window.zoomLevel": 2,
+    "editor.accessibilitySupport": "off"
+}
